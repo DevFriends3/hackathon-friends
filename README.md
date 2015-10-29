@@ -25,11 +25,11 @@ A maratona irá consistir em 6 horas intensas de programação com direito a con
 - Desenvolver uma página Web simples (ou não), com direito a um **alert** em Javascript e uma tela de login.
 
 #### Frontend pronto, agora mãos a massa com o Backend:
- - Criar um esquema de Banco de Dados MySQL com uma simples com tabela "Users" e "Data"
+- Criar um esquema de Banco de Dados MySQL com uma simples com tabela "Users" e "Data"
 - Relacionar as tabelas e testar funcionamento.
- - **Integrar com o FrontEnd.** (Agora sim vai ser insano :D).
- - Com o BD pronto, o usuário poderá logar na página e ser redirecionado para seu "perfil".
- - Simplesmente, terá um campo (input, textarea, etc), no qual o usuário poderá postar algo.
+- **Integrar com o FrontEnd.** (Agora sim vai ser insano :D).
+- Com o BD pronto, o usuário poderá logar na página e ser redirecionado para seu "perfil".
+- Simplesmente, terá um campo (input, textarea, etc), no qual o usuário poderá postar algo.
 - Essa página será restrita Ou seja, ninguém não vai poder fuxicar a vida de ninguém lá.
 - Feito tudo isso, e agora? Agora a gente continua com sangue no olho
 - Pausa pra descansar. Todo mundo merece, né? 
