@@ -21,7 +21,7 @@ A maratona irá consistir em 6 horas intensas de programação com direito a con
 
 ### A origem da vida:
 - Explicar, entender, praticar o funcionamento do Git
- - Fazer o primeiro "commit" com um simples Hello World no README.md 
+- Fazer o primeiro "commit" com um simples Hello World no README.md 
 - Desenvolver uma página Web simples (ou não), com direito a um **alert** em Javascript e uma tela de login.
 
 #### Frontend pronto, agora mãos a massa com o Backend:
